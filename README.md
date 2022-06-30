@@ -8,7 +8,7 @@ In this project, the home screen of the Orgs natural products e-commerce was cre
 
 <img src="https://user-images.githubusercontent.com/9091491/131163034-18cc72ba-8405-4676-a755-a6280d505fd1.gif" width="300" />
 
-## ✔️ Techniques and technologies used
+## ✔️ Techniques and technologies used in the project
 
 - `Use React Native CLI`
 - `Use Android Emulator`
