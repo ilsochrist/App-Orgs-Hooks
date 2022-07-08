@@ -1,4 +1,4 @@
-## App Orgs Hook
+## APP ORGS HOOKS
 
 This is a React Native project using hooks.
 
