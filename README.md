@@ -1,6 +1,6 @@
 ## App Orgs Hooks
 
-React Native Alura training using hooks.
+This is a React Native project using hooks.
 
 ## 🔨 Project features
 
